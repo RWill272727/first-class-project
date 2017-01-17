@@ -1,0 +1,27 @@
+/*
+	STYLE.CSS:
+	One stylesheet to rule them all.
+
+	selector { property:value }
+
+*/
+p {
+  color: black;
+  font-family: sans-serif;
+  font-size: 18px;
+  text-align: justify;
+
+}
+a {
+  color:black;
+  font-family: cursive;
+  font-size: 18px;
+}
+body {
+  background-color: #DCDCDC;
+  margin-left: 200px;
+  margin-right: 200px
+}
+h1 {
+  font-family:fantasy;
+}
